@@ -9,10 +9,12 @@ custom_js:
   - vega-embed.min
   - justcharts
 ---
-Group Number: 29
-Group Members: Aditya Khedkar Deepak Gajarmal Divyanka Phadtare Sowmya Mamidi
+
 
 # Inter-active graphs using vega-lite
+
+Group Number: 29
+Group Members: Aditya Khedkar Deepak Gajarmal Divyanka Phadtare Sowmya Mamidi
 
 Example comes from this [great blog post right here](https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html) that was also used in [our test import script](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week01/test_imports_week01.ipynb).
 
