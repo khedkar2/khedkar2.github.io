@@ -26,13 +26,13 @@ The first visualization is a scatter plot depicting a relation between latitude 
 
 Design choices:
 
-No special design choices are done for the first plot, excecpt setting the height and width.
+Our design choices for the first plot was a scatter plot to represent a unique location on the map. Furthemore we used state as a third parameter to color the map according to the states so that it will be easy for users to select their interested states.The color theme is an extra feature which we did in addition to the Homework 9 in this plot.
 
 Plot 2:
 
-The second visualization is a histogram demonstrating pressure distribution. The histogram changes according to the selection in Plot 1. Overlap with Homework 9: There is no overlap with Homework 9 for the second visualization as well.
+The second visualization is a histogram demonstrating pressure distribution. The histogram changes according to the selection in Plot 1.In Homework 9 we had used density plot to show continous distribution of pressure parameter but in this Homework we've used Histogram with bins to respresent dynamic distribution.This plot is helpful for the user because the user can view the pressure variations in their interested/selected area.
 
-Design choices: For the second visualization, color is added in the encoding.
+Design choices: For the second visualization, color is added in the encoding.The higher the frequency the darker the color of that bin will be.
 
 Interactivity:
 

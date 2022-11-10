@@ -5,7 +5,7 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Homework10 
+title               : Interactive Plots using Vega-Lite
 description         : >-
                       I may or may not be a corgi.
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
@@ -35,7 +35,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : A. P. Corgi
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+  image             : https://bera-group.com/wp-content/uploads/2020/07/Guide-to-Machine-Learning-and-AI.jpg
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
