@@ -9,7 +9,8 @@ custom_js:
   - vega-embed.min
   - justcharts
 ---
-
+Group Number: 29
+Group Members: Aditya Khedkar Deepak Gajarmal Divyanka Phadtare Sowmya Mamidi
 
 # Inter-active graphs using vega-lite
 
