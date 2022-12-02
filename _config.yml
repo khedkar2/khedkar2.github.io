@@ -5,9 +5,9 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Interactive Plots using Vega-Lite
+title               : Analysis through interactive dashboards 
 description         : >-
-                      I may or may not be a corgi.
+                      Converting Data to Information.
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          :                # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -34,14 +34,14 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
+  name              : Aditya Khedkar
   image             : https://bera-group.com/wp-content/uploads/2020/07/Guide-to-Machine-Learning-and-AI.jpg
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
   facebook          : your_username
   github            : jnaiman # JPN
-# gitlab            : your_username
+# gitlab            : khedkar2.github.io
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : your_username
