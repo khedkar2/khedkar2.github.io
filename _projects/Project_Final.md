@@ -1,7 +1,7 @@
 ---
 name: Digital Government Database Dashboard - Final Project
 tools: [Python, Alteir, Jupyter Notebook]
-image: assets/pngs/Hw10.png
+image: assets/pngs/Final_Project.png
 description: This is a project to analyse digital goverment database through interactive plots.
 custom_js:
   - vega.min
@@ -26,7 +26,6 @@ Digital governance is the application of modern framework technologies to improv
 
 The dataset was created during examination and recording of project information which was spearheaded by Integrated Digital solutions for all WBG investments. The dataset is classified as Public and comes under the Access to Information Classification Policy. Users inside as well as outside the World Bank have access to the dataset. In terms of metadata - geographical coverage ecompasses different countries around the world and includes all World Bank Group client countries. The granularity list consists of projects. In terms of temporal coverage the dataset spans from 1995 to 2022. Due to limited scope and time constraints, we are considering the Digital Government Projects Database (July 2020). The periodicity represented is annual. The Digital Government Projects Database (July 2020) dataset is basically a snapshot of operations portal data on the relevant World Bank Group funded programs within the specified period. The main source is the World Bank projects database. 
 
-Dashboard Design:
 
 The following dashboard has 4 interactive plots: 1] Bar plot showing number of total projects approved in a year. This plot is helpful to visualize the time-series instance present in the dataset.It is convenient for a user to select range of interested years through x-axis. The rest of the plots will update themselves automatically as per the user selection. 2] Stacked Bar plot showing practice showing sum of total World Bank commitment according to the project status. Each project has 1 of the following status- ACTIVE, CLOSED or PIPELINE.The graph is useful in finding out budgets allocated by World Bank according to the status of the projects for the selected years. 3] The third plot is a scatter plot showing correlation between IDA which is funds allocated by World Bank for e-governance and Net Funds allocated.It can be useful to identify any unusual behaviors in IDA funds. 4] The last plot is a pie chart showing percentages of ACTIVE,CLOSED and PIPELINE projects in given years.This plot is useful for user to priortize their focus according to the status of the project. For instance, if a number of Pipelined projects are greater than a certain threshold then summarized data associated with the projects.
 
@@ -34,10 +33,9 @@ The following dashboard has 4 interactive plots: 1] Bar plot showing number of t
 Interactivity:
 
 Each point on the scatter plot represents a location and when the user drags and drops the selected area/point from the scatter plot to the histogram, the pressure distribution of the particular area is plotted on the histogram. We understand the pressure distribution of the particular area through this interactivity.
+![alt text]({{ site.baseurl }}/assets/pngs/Contex1.jpg)
 
-![alt text]({{ site.baseurl }}/assets/pngs/Context1.jpg)
-
-SOURCE: IMF DataMapper- https://twitter.com/AAutina/status/1589521648226430976
+SOURCE: [IMF DataMapper- https://twitter.com/AAutina/status/1589521648226430976](https://twitter.com/AAutina/status/158952164822643097)
 
 In these times of distress due to fear of an upcoming recession, when everything seems uncertain, what do you think it looks like, to large nations? What are the indicators of this scenario? Yes, Economic Growth is the metric used to measure it. The IMF is a trusted source of information from which we have obtained the graph shown above.
 
@@ -47,9 +45,9 @@ From the visulaization, it is clearly understood that Russia and a few neighbori
 
 Let's watch out for what the year 2023 has in store for its countries and their people!!
 
-![alt text](assets/pngs/Context2.png)
+![alt text]({{ site.baseurl }}/assets/pngs/Contex2.png)
 
-SOURCE- Tax Policy Center https://www.taxpolicycenter.org/briefing-book/what-types-federal-grants-are-made-state-and-local-governments-and-how-do-they-work
+SOURCE- [Tax Policy Center]( https://www.taxpolicycenter.org/briefing-book/what-types-federal-grants-are-made-state-and-local-governments-and-how-do-they-work)
 
 The federal government distributes grants to state and local governments for several reasons. In some cases, the federal government may devolve or share responsibility for a given service or function because state and local governments have better information about local preferences and costs. In others, the federal government may offer states and localities incentives to undertake additional spending benefiting neighboring jurisdictions or the country as a whole.
 
