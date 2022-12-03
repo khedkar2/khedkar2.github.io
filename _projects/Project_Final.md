@@ -17,7 +17,6 @@ Group Number: 29
 
 Group Members: Aditya Khedkar Deepak Gajarmal Divyanka Phadtare Sowmya Mamidi
 
-Example comes from this [great blog post right here](https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html) that was also used in [our test import script](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week01/test_imports_week01.ipynb).
 
 The World Bank Group is one of the world’s largest source of funding particularly for developing countries. The WBG is committed to eradicating poverty, sharing prosperity and promoting sustainable development. It is important to understand and analyze significant global efforts.
 
@@ -36,7 +35,27 @@ Interactivity:
 
 Each point on the scatter plot represents a location and when the user drags and drops the selected area/point from the scatter plot to the histogram, the pressure distribution of the particular area is plotted on the histogram. We understand the pressure distribution of the particular area through this interactivity.
 
+![alt text](assets/pngs/Context1.jpg)
 
+SOURCE: IMF DataMapper- https://twitter.com/AAutina/status/1589521648226430976
+
+In these times of distress due to fear of an upcoming recession, when everything seems uncertain, what do you think it looks like, to large nations? What are the indicators of this scenario? Yes, Economic Growth is the metric used to measure it. The IMF is a trusted source of information from which we have obtained the graph shown above.
+
+"The global growth projection has been lowered to 2.7%." The current projection for 2022 is 3.3% and this forecast shows a significant dip in the following year! A color encoded geomap shows us the Economic forecasts for each country as a factor their growth in GDP. We can also see legends that read "Less than -3%", "-3 to 0%", which further helps us understand the fall in GDP percent each country is projected to experience.
+
+From the visulaization, it is clearly understood that Russia and a few neighboring countries alongside SriLanka are likely to see "-3 to 0%" growth in GDP. United States stands next scoring a position in the "0% to 3%" growth category. India, parts of Africa show a positive growth with projections at 6%+.
+
+Let's watch out for what the year 2023 has in store for its countries and their people!!
+
+![alt text](assets/pngs/Context2.png)
+
+SOURCE- Tax Policy Center https://www.taxpolicycenter.org/briefing-book/what-types-federal-grants-are-made-state-and-local-governments-and-how-do-they-work
+
+The federal government distributes grants to state and local governments for several reasons. In some cases, the federal government may devolve or share responsibility for a given service or function because state and local governments have better information about local preferences and costs. In others, the federal government may offer states and localities incentives to undertake additional spending benefiting neighboring jurisdictions or the country as a whole.
+
+The federal government distributed about $721 billion (about 16 percent of its budget) to states and localities in fiscal year 2019, providing about one-quarter of these governments’ total revenues. About 61 percent of those funds were dedicated to health care, 16 percent to income security programs, and 9 percent each to transportation and education, training, employment, and social services.
+
+From the visualization above we can see that over the years the grants released for "Health" facilities has taken a steady rise from 16% to 61%. All other categories show a decrease in total grants over the years. Education - 26% to 9% Income Security - 24% to 16% Transportation - 21% to 9% Community and Regional Development - 5% to 2% Others- 9% to 3%
 
 # Links for data and notebook
 
