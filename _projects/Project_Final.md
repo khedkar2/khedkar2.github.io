@@ -11,7 +11,7 @@ custom_js:
 ---
 
 
-# Dashboard using Alteir
+# Dashboard using Altair
 
 Group Number: 23
 
@@ -35,7 +35,7 @@ Interactivity:
 
 Each point on the scatter plot represents a location and when the user drags and drops the selected area/point from the scatter plot to the histogram, the pressure distribution of the particular area is plotted on the histogram. We understand the pressure distribution of the particular area through this interactivity.
 
-![alt text](assets/pngs/Context1.jpg)
+![alt text]({{ site.baseurl }}/assets/pngs/Context1.jpg)
 
 SOURCE: IMF DataMapper- https://twitter.com/AAutina/status/1589521648226430976
 
